@@ -13,4 +13,4 @@ No requiere librerías externas (cero pip)
 1. Abrir la terminal en la carpeta raíz del proyecto.
 2. Ejecutar el comando:
    ```bash
-   python src/main.py
+   py src/main.py
