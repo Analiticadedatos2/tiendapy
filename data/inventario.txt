@@ -1,1 +1,4 @@
 LAC001|Leche entera 1L|Lacteos|4600.0|20|10|Parmalat
+STR002|Salsa de tomate frasco 350 ml|Abarrotes|9000.0|67|7|Salsas Rey
+TPM003|Tajaditas de platano|Snaks|4500.0|64|9|El porvenir
+BGA004|Gaseosa de uva|Bebidas|3800.0|134|20|Postobon
