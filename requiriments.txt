@@ -1,0 +1,3 @@
+# El proyecto no requiere dependencias externas (pip)
+# Todo el código en Python con la utilización de funciones propias.
+# No se usa test
